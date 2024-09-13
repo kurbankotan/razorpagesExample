@@ -28,3 +28,4 @@ C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\razo
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\razorpagesExample\obj\Debug\net8.0\razorpagesExample.pdb
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\razorpagesExample\obj\Debug\net8.0\razorpagesExample.genruntimeconfig.cache
 C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\razorpagesExample\obj\Debug\net8.0\ref\razorpagesExample.dll
+C:\Users\PC\OneDrive - duzce.edu.tr\Programlama Çalışmaları\Aspnet Core\razorpagesExample\obj\Debug\net8.0\razorpagesExample.sourcelink.json
