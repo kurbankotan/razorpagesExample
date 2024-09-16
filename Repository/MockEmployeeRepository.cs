@@ -21,4 +21,9 @@ public class MockEmployeeRepository : IEmployeeRepository
     {
         return _employeeList;
     }
+
+    public Employee GetById(int id)
+    {
+        return _employeeList.FirstOrDefault(i => i.Id == id);
+    }
 }
