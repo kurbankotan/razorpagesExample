@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("razorpagesExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708e0c15a4021ac4cd1fd836bb9b206c9a8cb306")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2576c4639017e7558054f85bd0a97fc7517c404d")]
 [assembly: System.Reflection.AssemblyProductAttribute("razorpagesExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("razorpagesExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
